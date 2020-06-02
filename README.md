@@ -1,1 +1,1 @@
-# deeplearning-lecture
+# deeplearning
