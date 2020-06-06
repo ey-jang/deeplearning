@@ -3,7 +3,7 @@
 ### Loss/Cost : 얼마나 틀렸는지 계산
 ### Optimization : loss 최소화
 ### Result : 평가    
-    
+
    
 
 딥러닝 용어
@@ -48,11 +48,11 @@ Tensor
 ### 이미지 합치기
 <pre>
 <code>
-printf("Import cv2
+Import cv2
 dog_image = cv2.resize(image, (275, 183)) #강아지 사이즈 조정
 dog_image.shape
 out[] ((183, 275, 3), (183, 275, 3))
-dog_image.shape, cat_image.shape #강아지랑 고양이랑 사이즈 같다. ")
+dog_image.shape, cat_image.shape #강아지랑 고양이랑 사이즈 같다.
 </code>
 </pre>
 
